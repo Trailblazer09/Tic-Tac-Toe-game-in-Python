@@ -7,6 +7,8 @@ A fun, lightweight 3x3 Tic-Tac-Toe game written in Python, playable right in you
 - Clean board layout
 ## Future Scope: Ready for colorful enhancements & AI opponent
 
+![Tic-Tac-Toe Screenshot](display_screen.png)
+
 ## 🚀 How to Play
 ```bash
 python main.py
